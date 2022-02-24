@@ -1,0 +1,10 @@
+.tabList {
+  display: flex;
+  gap: 1rem;
+}
+
+.all {
+  padding-top: 10rem;
+  margin: 0 auto;
+  width: 60%;
+}
